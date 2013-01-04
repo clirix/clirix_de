@@ -310,6 +310,9 @@ p, h1{
 	vertical-align: top;
 	margin-left: 20px;
 }
+.skillparts ul{
+	padding-left: 20px;
+}
 span.skillparts.firstcol {
 	
 	margin-left: 0;
